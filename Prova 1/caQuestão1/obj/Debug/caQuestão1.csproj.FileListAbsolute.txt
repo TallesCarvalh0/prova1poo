@@ -1,0 +1,7 @@
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\caQuestão1\bin\Debug\caQuestão1.exe.config
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\caQuestão1\bin\Debug\caQuestão1.exe
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\caQuestão1\bin\Debug\caQuestão1.pdb
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\caQuestão1\obj\Debug\caQuestão1.csproj.AssemblyReference.cache
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\caQuestão1\obj\Debug\caQuestão1.csproj.CoreCompileInputs.cache
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\caQuestão1\obj\Debug\caQuestão1.exe
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\caQuestão1\obj\Debug\caQuestão1.pdb
