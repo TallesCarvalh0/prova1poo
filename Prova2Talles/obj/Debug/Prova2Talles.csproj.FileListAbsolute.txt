@@ -1,0 +1,10 @@
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\bin\Debug\Prova2Talles.exe.config
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\bin\Debug\Prova2Talles.exe
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\bin\Debug\Prova2Talles.pdb
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\obj\Debug\Prova2Talles.csproj.AssemblyReference.cache
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\obj\Debug\Prova2Talles.Form1.resources
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\obj\Debug\Prova2Talles.Properties.Resources.resources
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\obj\Debug\Prova2Talles.csproj.GenerateResource.cache
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\obj\Debug\Prova2Talles.csproj.CoreCompileInputs.cache
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\obj\Debug\Prova2Talles.exe
+C:\Users\Talles\OneDrive\Área de Trabalho\prova\Prova2Talles\obj\Debug\Prova2Talles.pdb
